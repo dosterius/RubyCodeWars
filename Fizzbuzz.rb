@@ -16,4 +16,4 @@ end
 
 end
 
-fizzbuzz(1000)
+fizzbuzz(100)
